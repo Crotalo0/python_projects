@@ -1,0 +1,13 @@
+#File log per Bevinator.
+--------------------------------------------
+Weight: 1.0 kg, Workout: 1 minuti  Glass capacity: 11 ml, Hot(1 yes, 0 no): 1 
+
+Glass n.1, Remaining water: 22, Data: Friday, 11/2/2022
+Glass n.2, Remaining water: 11, Data: Friday, 11/2/2022
+Glass n.3, Remaining water: 0, Data: Friday, 11/2/2022
+--------------------------------------------
+Weight: 1.0 kg, Workout: 1 minutes,  Glass capacity: 11 ml, Hot(1 yes, 0 no): 0 
+
+Glass n.1, Remaining water: 19, Data: Friday, 11/2/2022
+Glass n.2, Remaining water: 8, Data: Friday, 11/2/2022
+Glass n.3, Remaining water: 0, Data: Friday, 11/2/2022

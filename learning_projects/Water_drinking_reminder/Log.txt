@@ -1,0 +1,5 @@
+#File log per Bevinator.
+Bicchiere n.5, Acqua mancante: 1010, Data: Sunday, 6/2/2022
+Bicchiere n.6, Acqua mancante: 810, Data: Sunday, 6/2/2022
+Bicchiere n.7, Acqua mancante: 610, Data: Sunday, 6/2/2022
+Bicchiere n.8, Acqua mancante: 410, Data: Sunday, 6/2/2022

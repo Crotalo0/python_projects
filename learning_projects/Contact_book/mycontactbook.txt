@@ -1,0 +1,4 @@
+Ciro;Mantello;12345567890;ciro_mantello@gmail.com
+Alione;Pannone;1234;ciaone@gmail.com
+Fede;Maio;123;ciao@dd.it
+CIao;Bello;123;ciao@ll.it
